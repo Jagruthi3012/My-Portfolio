@@ -1,5 +1,5 @@
-import { FaDiscord, FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
-import { FaXTwitter } from "react-icons/fa6";
+import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
+
 
 const ContactData = {
   phone: "+1 716-520-8780",
