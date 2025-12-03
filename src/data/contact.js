@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
 const ContactData = {
   phone: "+1 716-520-8780",
   email: "jkelaval@buffalo.edu",
-  address: "Buffalo, NY, USA",
+  address: "Buffalo, USA",
   links: [
     {
       url: "https://github.com/Jagruthi3012",
