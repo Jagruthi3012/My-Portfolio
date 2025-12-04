@@ -7,7 +7,7 @@ const ContactData = {
   address: "Buffalo, New York, USA",
   links: [
     {
-      url: "https://github.comJagruthi3012",
+      url: "https://github.com/Jagruthi3012",
       icon: FaGithub,
     },
     {
