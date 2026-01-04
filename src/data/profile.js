@@ -1,7 +1,7 @@
 const ProfileData = {
   img: require("../assets/Images/Portfolio.png"),
   name: "Jagruthi Kelavalli Jagadish",
-  professions: ["Web Developer", "Software Engineer", ""],
+  professions: ["Web Developer", "Software Engineer", "Cybersecurity Enthusiast"],
   info: [
     "Aspiring Software Engineer pursuing an MS in Computer Science at the University at Buffalo,",
     "with hands-on experience in backend APIs, data visualizations, and network security."
