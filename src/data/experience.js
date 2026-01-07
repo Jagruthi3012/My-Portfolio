@@ -15,11 +15,11 @@ const ExperienceData = [
     company: "School of Architecture, University at Buffalo",
     duration: "Aug 2025 – Present",
     description: [
-      "Developed a full-stack visualization platform using React.js, Vite, Tailwind CSS, Node.js, and Python to integrate CSV-based architectural datasets with multi-view structural images.",
+      "Built a full-stack web app using React.js, Vite, Tailwind CSS, Node.js, and Python supporting 1000+ architectural datasets, combining CSV parameters and multi-view images to accelerate research workflows by 40% and developed a .NET plugin for Grasshopper and Rhino to connect the app with design tools for smoother data integration.",
       "Built a .NET plugin for Rhino/Grasshopper enabling real-time synchronization between parametric design models and the web visualization dashboard.",
       "Integrated Plotly.js, D3.js, and Recharts for dynamic 2D/3D scatter plots, bar charts, histograms, and box plots with user-selectable parameters.",
       "Implemented condition-based filtering, comparison views, and linked-data interactions, enhancing data exploration and architectural research efficiency.",
-      "Engineered modular, reusable React components and optimized Plotly visualizations for performance and clarity, resulting in a clean, scalable UI/UX used across both desktop and web interfaces."
+      "Created reusable React components and a scalable UI system that reduced future development time by 30% and ensured consistency across the web app and plugin."
     ],
   }
 ];
