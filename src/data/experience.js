@@ -5,9 +5,10 @@ const ExperienceData = [
     duration: "Dec 2023 – Jun 2024",
     description: [
       "Developed detection scripts for emerging cybersecurity vulnerabilities, aligned with CISA advisories and classified using the MITRE ATT&CK framework, in a Kali Linux environment.",
-      "Assessed vulnerabilities and implemented mitigation strategies based on NIST guidelines, using tools like Nessus, OpenVAS, and Qualys to integrate scan results into remediation logic.",
+      "Analyzed 100+ newly released CVEs weekly, evaluated CVSS scores, and built PoC exploits, enabling faster validation and reducing manual triage time by 25%.",
+      "Assessed vulnerabilities and implemented mitigation strategies based on NIST guidelines, using tools like Nessus, OpenVAS, and Qualys to integrate scan results into remediation logic and automated workflows through CI/CD pipelines.",
       "Released secure patches, performed rigorous testing, and optimized detection accuracy—reducing false positives by 20%.",
-      "Enhanced network security through IP routing solutions and collaborated closely with the team during daily stand-ups and sprint planning.",
+      "Enhanced network security through IP routing solutions and collaborated closely with the team during daily stand-ups and sprint planning."
     ],
   },
   {
