@@ -7,7 +7,7 @@ const ProfileData = {
     "with hands-on experience in backend APIs, data visualizations, and network security."
   ],
   resume:
-    "https://drive.google.com/file/d/1pWP3JiQ79ASfjSwUPMYUEA3-WBVIO5bh/view?usp=sharing",
+    "https://drive.google.com/file/d/17XvLYmluC_ImM7zV1yTF2bpQUTCSPgTs/view?usp=sharing",
 };
 
 export default ProfileData;
