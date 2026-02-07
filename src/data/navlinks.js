@@ -11,6 +11,9 @@ const Navlinks = [
     title: "Skills",
     link: "skills",
   },
+  { 
+    title: "Certifications", 
+    link: "certifications" },
   {
     title: "Projects",
     link: "projects",

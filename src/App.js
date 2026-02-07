@@ -8,6 +8,7 @@ import Profile from "./components/Profile";
 import Projects from "./components/Projects";
 import ScrollToTopButton from "./components/ScrollToTop";
 import Skills from "./components/Skills";
+import Certifications from "./components/Certifications";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -18,6 +19,7 @@ function App() {
       <Profile />
       <About />
       <Skills />
+      <Certifications />
       <Projects />
       <Experience />
       <Contact />
