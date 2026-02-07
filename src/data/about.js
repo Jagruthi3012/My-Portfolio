@@ -1,8 +1,8 @@
 const AboutData = {
   image: require("../assets/Images/about.png"),
   description: [
-    "Currently pursuing an MS in Computer Science at the University at Buffalo. Recently joined the University as a Research Study Assistant, contributing to impactful projects within the School of Architecture and Planning. Academic and professional experiences are supported by strong competencies in Python programming, Lua scripting, and cybersecurity frameworks. ",
-    "Previous role as a Software Engineer at SecPod involved developing detection scripts for cybersecurity vulnerabilities, implementing mitigation strategies, and enhancing network security using tools like Nessus and OpenVAS. Motivated to collaborate on innovative solutions, bring diverse perspectives to the team, and contribute to fostering a secure digital environment.",
+    "Master’s graduate in Computer Science from the University at Buffalo, with a strong interest in backend engineering and cybersecurity. My academic and professional experience includes building backend systems, secure APIs, and web applications, supported by proficiency in Python, Java, and JavaScript.",
+    "Previously worked as a Security Engineer at SecPod Technologies and as a Research Aide at the University at Buffalo, where I gained hands-on experience applying security frameworks such as NIST, MITRE ATT&CK, OWASP, and CISA, and working with backend and cloud technologies including Node.js, Express, MongoDB, PostgreSQL, Docker, and AWS. I am motivated to collaborate on secure, scalable systems and contribute to building reliable backend infrastructure.",
   ],
 };
 export default AboutData;
