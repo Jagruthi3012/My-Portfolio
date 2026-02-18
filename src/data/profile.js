@@ -3,7 +3,7 @@ const ProfileData = {
   name: "Jagruthi Kelavalli Jagadish",
   professions: ["Web Developer", "Software Engineer", "Cybersecurity Enthusiast"],
   info: [
-    "Software Engineer pursuing an MS in Computer Science at the University at Buffalo,",
+    "Software Engineer with an MS in Computer Science at the University at Buffalo,",
     "with hands-on experience in backend APIs, data visualizations, and network security."
   ],
   resume:
