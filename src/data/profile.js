@@ -8,7 +8,7 @@ const ProfileData = {
     " intersection of cloud, cybersecurity, and real-world problem solving."
   ],
   resume:
-    "https://drive.google.com/file/d/1KZW49L8uDbbvKwGC6MJYUZuo2rvFYZoe/view?usp=sharing",
+    "https://drive.google.com/file/d/1HufhMbeK0WFXM7iF_zJGrACbQNrsdn5H/view?usp=sharing",
 };
 
 export default ProfileData;
