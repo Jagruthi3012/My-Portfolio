@@ -11,4 +11,4 @@ const ProfileData = {
     "https://drive.google.com/file/d/1HufhMbeK0WFXM7iF_zJGrACbQNrsdn5H/view?usp=sharing",
 };
 
-export default ProfileData;
+export default ProfileData
