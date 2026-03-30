@@ -23,7 +23,7 @@ const ProjectsData = [
   {
     id: "6",
     name: "OIDC-Secured Notes Application",
-    image: "./cab.jpeg",
+    image: "./notes.png",
     description: "Designed and implemented a full-stack notes application secured with OpenID Connect and OAuth 2.0",
     github: "https://github.com/Jagruthi3012/oidc-notes-terraform",
   },
