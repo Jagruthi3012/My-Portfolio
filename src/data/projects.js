@@ -22,10 +22,10 @@ const ProjectsData = [
   },
   {
     id: "6",
-    name: "Cab Aggregator",
+    name: "OIDC-Secured Notes Application",
     image: "./cab.jpeg",
-    description: "Built an online cab booking application (Cab Aggregator) using PHP, MySQL, HTML, and jQuery, with core booking features; future releases to include payment integration and GPS tracking.",
-    github: "https://github.com/Jagruthi3012/cab_aggregator",
+    description: "Designed and implemented a full-stack notes application secured with OpenID Connect and OAuth 2.0",
+    github: "https://github.com/Jagruthi3012/oidc-notes-terraform",
   },
   {
     id: "2",
