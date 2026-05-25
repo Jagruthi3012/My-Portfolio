@@ -15,7 +15,7 @@ const ContactData = {
       icon: FaLinkedin,
     },
     {
-      url: "https://www.instagram.com/jagruthi._",
+      url: "https://www.instagram.com/jagruthi.",
       icon: FaInstagram,
     },
   ],
