@@ -21,4 +21,4 @@ const ContactData = {
   ],
 };
 
-export default ContactData;
+export default ContactData
